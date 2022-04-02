@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @asia-edward
 - 👀 I’m interested in everything law and legal technology
-- 🌱 I’m currently learning about apllying technology with law
-- 💞️ I’m looking to collaborate on research, writing 
+- 🌱 I’m currently learning about applying technology in law
+- 💞️ I’m looking to collaborate on research and writing 
 - 📫 you can reach me on anstesiaedward@yahoo.com or +2347010558878
 
 <!---
